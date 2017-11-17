@@ -1,0 +1,26 @@
+{
+  "name": "hatchd-ui-testing",
+  "version": "1.0.0",
+  "description": "Hatchd UI Testing Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatchddigital/ui-tesing.git"
+  },
+  "author": "Ed Fryer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatchddigital/ui-tesing/issues"
+  },
+  "homepage": "https://github.com/hatchddigital/ui-tesing#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^21.2.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^21.2.1",
+    "puppeteer": "^0.13.0"
+  }
+}
