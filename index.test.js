@@ -6,7 +6,6 @@ import puppeteer from 'puppeteer';
 
 // the url to the page we are going to run our tests on
 const URL = 'https://hatchd.com.au';
-//const URL = 'http://mac.local/ui-tesing/';
 
 let page;
 let browser;
